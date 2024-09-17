@@ -20,4 +20,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=syed-asak&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=insharahAyyubi&icon=2&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=syed-asak&label=Profile_views&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in)
