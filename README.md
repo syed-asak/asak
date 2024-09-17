@@ -16,8 +16,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syed-asak&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=syed-asak&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=syed-asak&label=Profile_views&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in)
